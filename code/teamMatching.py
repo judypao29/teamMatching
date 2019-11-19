@@ -37,7 +37,7 @@ while len(list_of_players) != 0:
     teamscore = 0
     team = None
     players = []
-    while teamscore not in range(target_team_score - 2, target_team_score + 2):
+    while teamscore not in range(target_team_score - 1, target_team_score):
         players = list_of_players.copy()
         current_team_roles = []
         teamscore = 0
