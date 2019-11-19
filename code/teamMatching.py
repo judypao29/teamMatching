@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from io import StringIO
 import csv
 import random
