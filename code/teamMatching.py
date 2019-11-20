@@ -50,13 +50,9 @@ while num_teams_made != num_teams:
     teamscore = 0
     team = None
     players = []
-<<<<<<< HEAD:code/teamMatching.py
-
+    
     finite_loop_num = 0
     while teamscore not in range(target_team_score - 1, target_team_score + 1) and finite_loop_num < 15000:
-=======
-    while teamscore not in range(target_team_score - 1, target_team_score):
->>>>>>> dc54df2dbef81e6e328e02d379039944ae68409e:code/teamMatching.py
         players = list_of_players.copy()
         current_team_roles = []
         teamscore = 0
