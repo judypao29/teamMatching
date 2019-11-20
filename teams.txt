@@ -1,11 +1,7 @@
-['seven', 'twentytwo', 'twenty', 'six', 'fifteen']
-['thirteen', 'sixteen', 'twentyfour', 'nine', 'eighteen']
-['eight', 'eleven', 'twentyone', 'seventeen', 'two']
-['fourteen', 'twentythree', 'nineteen', 'five', 'twelve']
-['one', 'three', 'four', 'ten', 'twentyfive']
-
-['four', 'two', 'twentyone', 'fifteen', 'twelve']
-['eighteen', 'twentyfive', 'thirteen', 'sixteen', 'eight']
-['nineteen', 'six', 'twentyfour', 'twenty', 'five']
-['fourteen', 'seven', 'one', 'nine', 'twentythree']
-['three', 'ten', 'eleven', 'seventeen', 'twentytwo']
+['four', 'twentytwo', 'fifteen', 'twenty', 'six']
+['seven', 'one', 'thirteen', 'sixteen', 'twentythree']
+['ten', 'twentyfour', 'fourteen', 'twentyone', 'seventeen']
+['twentyfive', 'nine', 'twelve', 'five', 'nineteen']
+['eleven', 'two', 'eight', 'three', 'eighteen']
+leftover players: 
+['twentysix', 'challenger', 'adc']

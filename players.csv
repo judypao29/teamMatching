@@ -2,7 +2,7 @@ Username,Rank,Role
 one,gold,top
 two,platinum,jungle
 three,challenger,support
-four,diamond,mid
+four,diamond,top
 five,diamond,top
 six,iron,support
 seven,masters,mid
@@ -24,3 +24,4 @@ twentytwo,platinum,adc
 twentythree,challenger,adc
 twentyfour,masters,adc
 twentyfive,challenger,adc
+twentysix,challenger,adc
