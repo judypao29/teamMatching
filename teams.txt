@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ['four', 'twentytwo', 'fifteen', 'twenty', 'six']
 ['seven', 'one', 'thirteen', 'sixteen', 'twentythree']
 ['ten', 'twentyfour', 'fourteen', 'twentyone', 'seventeen']
@@ -5,3 +6,10 @@
 ['eleven', 'two', 'eight', 'three', 'eighteen']
 leftover players: 
 ['twentysix', 'challenger', 'adc']
+=======
+['nine', 'fifteen', 'two', 'twentyone', 'thirteen']
+['twentytwo', 'seven', 'ten', 'one', 'three']
+['five', 'fourteen', 'twelve', 'seventeen', 'twentythree']
+['nineteen', 'twenty', 'six', 'twentyfive', 'eleven']
+['four', 'eight', 'sixteen', 'eighteen', 'twentyfour']
+>>>>>>> dc54df2dbef81e6e328e02d379039944ae68409e
